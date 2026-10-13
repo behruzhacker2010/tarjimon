@@ -1,0 +1,6 @@
+{
+  "name": "Tarjima Qiber - Smart AI Translator",
+  "description": "Intelligent multi-language translator with deep Uzbek Latin/Cyrillic support, nuanced tones, vocabulary breakdown, voice pronunciation, and image translation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
